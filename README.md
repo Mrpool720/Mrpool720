@@ -1,5 +1,4 @@
 ### Hi there 👋
-### Hi there 👋, my name is Abhimanyu
 #### JDAC-23, Software Engineer, Java Full Stack Developer
 ![JDAC-23, Software Engineer, Java Full Stack Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
