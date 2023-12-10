@@ -1,6 +1,6 @@
 ### Hi there 👋
-#### JDAC-23 | Software Engineer | Java Full Stack Developer
 ![JDAC-23, Software Engineer, Java Full Stack Developer](github-header-image.png)
+#### JDAC-23 | Software Engineer | Java Full Stack Developer
 <br>
 <br>
 **✨ Tech stacks currently using** <br>
