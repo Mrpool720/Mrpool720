@@ -1,6 +1,8 @@
 ### Hi there 👋
-#### JDAC-23, Software Engineer, Java Full Stack Developer
-![JDAC-23, Software Engineer, Java Full Stack Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+#### JDAC-23 | Software Engineer | Java Full Stack Developer
+![JDAC-23, Software Engineer, Java Full Stack Developer](github-header-image.png)
+<br>
+<br>
 **✨ Tech stacks currently using** <br>
 <br>
 <code><a href="https://docs.oracle.com/en/java/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
