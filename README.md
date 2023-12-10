@@ -32,22 +32,14 @@
 <br>
 <br>
 <br>
-**💬 Ask me about anything, I'll be happy to help!** <br>
 **💬 My inbox is always open, Contact me**
 <br>
 <br> 
-  <a href="https://www.linkedin.com/in/abhimanyukumar/">
-   <img align="left" alt="Piyush Pravin | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
-  </a>
-  <a href="mailto:abhiimanyukumar@gmail.com">
-    <img align="left" alt="Piyush Pravin | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
-  </a>
-  <a href="https://twitter.com/sabhimanyu909">
-    <img align="left" alt="Piyush Pravin | Twitter" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
-  </a>
-  <a href="https://www.instagram.com/sabhimanyu909/">
-    <img align="left" alt="Piyush Pravin | Instagram" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg" />
-  </a>
+  <code><a href="https://www.linkedin.com/in/abhimanyukumar/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a></code>
+  <code><a href="mailto:abhiimanyukumar@gmail.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg"></a></code>
+  <code><a href="https://twitter.com/sabhimanyu909" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg"></a></code>
+  <code><a href="https://www.instagram.com/sabhimanyu909/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"></a></code>
+  <code><a href="https://replit.com/@AbhimanyuKumar6" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/replit/replit-ar21.svg"></a></code>
 <br>
 <br>
 
