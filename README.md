@@ -1,11 +1,13 @@
 ### Hi there 👋
 ![JDAC-23, Software Engineer, Java Full Stack Developer](github-header-image.png)
-#### JDAC-23 | Software Engineer | Java Full Stack Developer
+#### JDAC-23 | Data Analyst | Full Stack Developer
 <br>
 **✨ Tech stacks currently using** <br>
 <br>
-<code><a href="https://docs.oracle.com/en/java/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
-<code><a href="https://docs.spring.io/spring-framework/reference/index.html" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></a></code>
+<code><a href="https://learn.microsoft.com/en-us/power-bi/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"></a></code>
+<code><a href="https://www.tableau.com/" target="_blank"><img height="50" src="https://github.com/gilbarbara/logos/blob/main/logos/tableau.svg"></a></code>
+<code><a href="https://www.snowflake.com/en/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/snowflake/snowflake-ar21.svg"></a></code>
+<code><a href="https://docs.python.org/3/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
 <code><a href="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
 <code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></a></code>
@@ -18,17 +20,16 @@
 <code><a href="https://www.jenkins.io/doc/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></a></code>
 <code><a href="https://docs.aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
 <code><a href="https://www.json.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></a></code>
-<code><a href="https://learn.microsoft.com/en-us/power-bi/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></a></code>
+
 <br>
 <br>
 <br>
 **🌱 Looking forward to learn:** <br>
 <br>
 <code><a href="https://nodejs.org/docs/latest/api/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a></code>
-<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a href="https://cloud.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a></code>
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
-<code><a href="https://www.rust-lang.org/learn" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></a></code>
+<code><a href="https://docs.pytorch.org/docs/stable/index.html" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></a></code>
 <br>
 <br>
 <br>
