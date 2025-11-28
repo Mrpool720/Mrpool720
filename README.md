@@ -1,6 +1,6 @@
 ### Hi there 👋
-![JDAC-23, Software Engineer, Java Full Stack Developer](github-header-image.png)
-#### JDAC-23 | Data Analyst | Full Stack Developer
+![JDAC-23, Software Engineer, Java Full Stack Developer](github-header-banner2.png)
+#### JDAC-23 | Data Analyst | Data Scientist*
 <br>
 **✨ Tech stacks currently using** <br>
 <br>
